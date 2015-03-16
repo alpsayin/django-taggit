@@ -1,3 +1,12 @@
+Modifications
+-------------
++ Turkish translation
++ Gave editors access to admin panel for tags
+This is an old fork which works for a project of mine.
+
+Original Repository Description Below
+-------------------------------------
+
 django-taggit
 =============
 
